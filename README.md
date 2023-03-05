@@ -1,5 +1,6 @@
 <!-- cSpell:enable  -->
-
+# DESCRIPTION:
+This webpage is about the BYU London Centre Summer 2023 Study Abroad. It goes over where we will be going. The about page shows the history of the London Centre and the Contact page will give informaiton on program directors. The cards show places we will visit. 
 # Overlays and cards
 
 **Objectives**: Add a text overlay to your hero image. Use a dynamic font for the `<h1>` in the overlay. Add four cards to your site. Add a hover effect to your cards.

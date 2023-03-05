@@ -233,12 +233,13 @@ a {
 }
 
 .card {
+  flex: 1 1 0;
   transition: color 300ms, text-decoration 300ms;
 }
 
 .card:hover {
   text-decoration: underline;
-  color: blue;
+  color: black;
 }
 .sr-only {
   clip: rect(1px, 1px, 1px, 1px);
